@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     # Hyperparameters
     num_classes = 28
-    num_epochs = 300
+    num_epochs = 30
     batch_size = 2048
     input_size = 1
     model_dir = 'model'
