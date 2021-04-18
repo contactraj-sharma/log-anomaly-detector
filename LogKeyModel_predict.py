@@ -1,3 +1,4 @@
+# Log anomaly detector 
 import torch
 import torch.nn as nn
 import time
@@ -43,7 +44,7 @@ if __name__ == '__main__':
     # Hyperparameters
     num_classes = 28
     input_size = 1
-    model_path = 'model/Adam_batch_size=2048_epoch=300.pt'
+    model_path = 'model/Adam_batch_size=2048_epoch=30.pt'
     parser = argparse.ArgumentParser()
     parser.add_argument('-num_layers', default=2, type=int)
     parser.add_argument('-hidden_size', default=64, type=int)
