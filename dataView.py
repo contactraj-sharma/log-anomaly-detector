@@ -1,4 +1,4 @@
-#   This is just a data viewing to see there are how many templates, training data and so on.
+#       This is just a data viewing to see there are how many templates, training data and so on.
 if __name__ == '__main__':
     hdfs_train = []
     hdfs_test_normal = []
