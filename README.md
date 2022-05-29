@@ -7,6 +7,6 @@
 
 for more information or collaboration , please email as given below
 
-Name : Raj Sharma , CEO at CyberPulse Ltd and Course Lead - AI for Cyber Security at Oxford Universirty
+Name : Raj Sharma , CEO at CyberPulse Ltd and Course Director - AI for Cyber Security at Oxford Universirty
 
-Email : raj.sharma@cyberpulseai.com and Linkedin : https://www.linkedin.com/in/chief-tech-strategist/
+Email : raj.oxford.ai@gmail.com
